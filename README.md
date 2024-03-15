@@ -1,4 +1,4 @@
-### Hi, I'm Bo!
+
 
 <!--
 **BoFromTheEast/BoFromTheEast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,10 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 💫 About Me:
-🔭Software Engineer Student looking for new challenges<br>
-😄Current Student at Iowa State University, Iowa <br>
-🌱Writing code one step at a time
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Bo+Oo!;" />
+</h1>
+
+
+
+<div align="center">
+  <h3>💫 About Me: </h3>
+    🔭Software Engineer Student looking for new challenges<br>
+    😄Current Student at Iowa State University, Iowa <br>
+    🌱Writing code one step at a time 
+</div>
+
 
 
 ## 🌐 Socials:
