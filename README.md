@@ -29,7 +29,8 @@ Here are some ideas to get you started:
 </div>
 
 ## Portfolio:
-<a href="bohtetoo.com"> bohtetoo.com <a/>
+<a href="https://bohtetoo.com" target="_blank" rel="noopener noreferrer">bohtetoo.com</a>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bo-h-oo) 
