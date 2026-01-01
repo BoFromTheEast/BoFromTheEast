@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <div align="center">
   <h3>💫 About Me: </h3>
     🔭Software Engineer Student looking for new challenges<br>
-    😄Currently a Junior at Iowa State University, Iowa <br>
+    😄Currently a Senior at Iowa State University, Iowa <br>
     🌱Writing code one step at a time 
 </div>
 
